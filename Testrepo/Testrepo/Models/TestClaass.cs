@@ -7,6 +7,7 @@ namespace Testrepo.Models
 {
     public class TestClaass
     {
-        int text;
+        string text;
+        int number;
     }
 }
